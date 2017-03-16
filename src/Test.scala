@@ -7,6 +7,12 @@ object Test {
 
     var output :String = "TestGit"
     println(output)
+
+    var link:StringBuilder =new StringBuilder()
+    link += 's'
+
+    println(link)
+
   }
 
 }
